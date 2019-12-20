@@ -12,7 +12,7 @@ public class bac1075 {
 		
 		Scanner scn = new Scanner(System.in);
 		
-		System.out.println("두수를입력하세요.");
+		System.out.println("두수를입력하세요aa.");
 
 		/*
 		 * n = scn.nextInt(); f = scn.nextInt();
